@@ -1,5 +1,5 @@
 li = []
-print('The TO-DO LIST. PRESS a to ADD, d to DELETE and q TO QUIT')
+print('The TO-DO LIST. PRESS a to ADD, d to DELETE, s to SORT and q TO QUIT')
 g = True
 while g:
     #Taking User input what do they want to do
